@@ -1,0 +1,83 @@
+<rss version="2.0" xmlns:ls="https://www.littlstar.com">
+  <channel>
+    <title>Aggregrate Video Feed</title>
+    <link>https://github.com/bplaster/example-rss-feed</link>
+    <description>This is an example aggregrate littlstar rss feed</description>
+    <category>Example</category>
+    <image>
+      <url>https://avatars0.githubusercontent.com/u/863285</url>
+      <title>Odes to Oats</title>
+      <link>https://github.com/bplaster</link>
+    </image>
+    <item>
+      <title>Reuters US Breaking News</title>
+      <link>http://feeds.reuters.com/reuters/USVideoBreakingviews</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>Reuters US Breaking News</title>
+      <link>http://feeds.reuters.com/reuters/USVideoBreakingviews</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>TED Talks</title>
+      <link>http://feeds.feedburner.com/TEDTalks_video</link>
+      <description>A list of TED Talks</description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>Reuters US Breaking News</title>
+      <link>http://feeds.reuters.com/reuters/USVideoBreakingviews</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>Reuters US Politics</title>
+      <link>http://feeds.reuters.com/reuters/USVideoPolitics</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>NASA Vodcast</title>
+      <link>https://www.nasa.gov/rss/dyn/TWAN_vodcast.rss</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>NASA 360</title>
+      <link>https://www.nasa.gov/rss/dyn/nasa360_vodcast.rss</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>CNET</title>
+      <link>http://feed.cnet.com/feed/podcast/all/hd.xml</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>JPL Podfeed</title>
+      <link>https://www.jpl.nasa.gov/multimedia/podcast/podfeed.xml</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+    <item>
+      <title>NOVA</title>
+      <link>http://feeds.pbs.org/pbs/wgbh/nova-video</link>
+      <description></description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+    </item>
+  </channel>
+</rss>
