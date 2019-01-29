@@ -5,30 +5,18 @@
     <description>This is an example aggregrate littlstar rss feed</description>
     <category>Example</category>
     <image>
-      <url>https://avatars0.githubusercontent.com/u/863285</url>
+      <url>https://odestooats.com/wp-content/uploads/2015/03/March5_20121.jpg</url>
       <title>Odes to Oats</title>
       <link>https://github.com/bplaster</link>
     </image>
-    <item>
-      <title>Reuters US Breaking News</title>
-      <link>http://feeds.reuters.com/reuters/USVideoBreakingviews</link>
-      <description></description>
-      <category></category>
-      <ls:feed>true</ls:feed>
-    </item>
-    <item>
-      <title>Reuters US Breaking News</title>
-      <link>http://feeds.reuters.com/reuters/USVideoBreakingviews</link>
-      <description></description>
-      <category></category>
-      <ls:feed>true</ls:feed>
-    </item>
     <item>
       <title>TED Talks</title>
       <link>http://feeds.feedburner.com/TEDTalks_video</link>
       <description>A list of TED Talks</description>
       <category></category>
       <ls:feed>true</ls:feed>
+      <ls:content-type>ff</ls:content-type>
+      <ls:layout-type>2d</ls:content-layout>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
@@ -64,6 +52,7 @@
       <description></description>
       <category></category>
       <ls:feed>true</ls:feed>
+      <ls:image>https://cnet4.cbsistatic.com/img/yXU0_ScQiWQntNtH1E6-UvDR8Qk=/2016/05/10/511a8418-7450-433b-849d-462c6af49c4e/allvideo300x300.jpg</ls:image>
     </item>
     <item>
       <title>JPL Podfeed</title>
