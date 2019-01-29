@@ -16,7 +16,7 @@
       <category></category>
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
-      <ls:layout-type>2d</ls:content-layout>
+      <ls:content-layout>2d</ls:content-layout>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
