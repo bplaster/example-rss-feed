@@ -10,6 +10,15 @@
       <link>https://github.com/bplaster</link>
     </image>
     <item>
+      <title>Twitch Live Test</title>
+      <link>https://video-weaver.fra02.hls.ttvnw.net/v1/playlist/CsQDEzz9uVQXt1AGXqkhqWn_2T6lTdM5Ozb5SHzmGUDUNBdZgRU9KStZMVyZ8eCwz5L-C4CmwhbSBgY5QWBm5kvFsHYXXTVBFH1rFE4JTywTcfjQd9zVaXoJ_1-7z-pxpVY0Cs8ICUoVUu3_q1_bLEMgNqMJLiaKjokDCYUxyz8vPjaux57QRHGd9-8vzJDYXppB3UM6-MhUaYwaw2YO77b2KhpaKp5KFHps3nmPO5-OGGd0hr6osJjZJl7R4KIYiBAEzZtnIndKYob3-nd3-l7tEcIDukZ1P6fFPgLd-fTK5WTx8TFkk51rwGE4kqUxKBFWOne9r0bf2finD19N_erwnh9gWM9kEVkNekhI42_dJ-VdFbmVbJCoxGCgxU6nssS8Xre7yUX2TF0wpclj5NkcZK_ZvU5pJHkd7LBSDKNIQIyo9A77syuwj4Kev8D1nJ6PwTQROzrIH4jDfC82KwvIViWQ5tYuIoyWQ470ymru6Ogb9BrWmGhaPzNPH3WzD2yNFqqh-di73eNRZj077ZxQCtSfbZ9fbAZUdCmhXrLIPqjHRtyoyRQ6G1ckNeYQG5Nnce23004fatIuxhifReaPh6BaJOkSECUoaCw_7_ll29TahHPQjdYaDF-GoIMqCfyENlx6JQ.m3u8</link>
+      <description>A list of TED Talks</description>
+      <category></category>
+      <ls:feed>true</ls:feed>
+      <ls:content-type>ff</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+    </item>
+    <item>
       <title>TED Talks</title>
       <link>http://feeds.feedburner.com/TEDTalks_video</link>
       <description>A list of TED Talks</description>
