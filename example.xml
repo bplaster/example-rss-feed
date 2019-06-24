@@ -10,9 +10,17 @@
       <link>https://github.com/bplaster</link>
     </image>
     <item>
-      <title>Twitch Live Test</title>
-      <link>https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CtED5WZn3qxp4JbzivqBuWokSLWTjGbZ4Iqx-kSLIcY_p6ITSiMzobQrKf6QCuWqo4dr3MEbbtsfgYltzEq2VCqT5nBIH9JWRfRd_mPjjbw4Z7Yb5hUFxGKIW6VBP04Q8BD3gIpMihigbTYKmQUw-oVYqLBs4KvcqXQFVGeUawylU281jt8mIi5u4VWcuO_aamvatTsoQm6BMwV55zOIVxXtoPxnrnWAJolD5FaYhwut09EYvl7N_Lf3i-3PVRJzmnD57VIy1llTQh45YYtxdU_G0znxkmFt5D0UC0ynidaOJ9n8PDrald_yDWotAm4eSuSUsIrWFujbkgF2Lx7vXNM2o2Zaw-4N4X0uEDDW7ZDnloSa3KUNZqDpKVetlZ1zTGRROeJlbiZcjH9zet_h8CtZZSuTPinrx42lOCazOVyKw_GHkOWb2IYIdCevIRkSjDhQTF0NxblSJhJJUxpK-5Tu6szJvQLeSJwcl0OBiu4qIT2R3c20zmdM5c4-lkpxHGLDmttKy-5l3piFepzK-RdNnpRIs4TF1d-GiX3em2UJmJHZnpLhQm4FbgziY8zILCMqAVAMUQlMKhyFFFcTFGGVGVZ8hV9CEiOaQ6xhzl7kIArREhD5GiGSVjT4FYawmARAJcfMGgz7Z6x3NFhXEwz91A0.m3u8</link>
-      <description>Twitch Live Test</description>
+      <title>Test Live Stream and Redirect</title>
+      <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.m3u8</link>
+      <description></description>
+      <category></category>
+      <ls:content-type>ff</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+    </item>
+    <item>
+      <title>Test mp4 redirect</title>
+      <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.m3u8</link>
+      <description></description>
       <category></category>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
