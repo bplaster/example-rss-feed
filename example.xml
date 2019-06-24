@@ -19,7 +19,7 @@
     </item>
     <item>
       <title>Test mp4 redirect</title>
-      <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.m3u8</link>
+      <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.mp4</link>
       <description></description>
       <category></category>
       <ls:content-type>ff</ls:content-type>
