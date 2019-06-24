@@ -14,6 +14,7 @@
       <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.m3u8</link>
       <description></description>
       <category></category>
+      <ls:live>true</ls:live>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
     </item>
