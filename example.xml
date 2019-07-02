@@ -28,6 +28,15 @@
       <ls:content-layout>2d</ls:content-layout>
     </item>
     <item>
+      <title>Twitch Live Stream Direct</title>
+      <link>https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CuEDJI3Qk6I_Xujr9B0rtYEmSPzZUeM-JRCsRcTac0tiVUU-gtr5XX16SWDG8KjwSuakiIR5Vhf_3pB6Uv5R-_0Q6hTX1X_UpEN9JWlacGskEXKrFn-RvZKnjVXq5WRozs4f0KK5TAYjq0m54RvanjvzQJyU1z2lx-3rbSEszO3foBAHBHFIUcMsarKCMu6TeJiFchN-yvk9QdDzkLtroLjdmpyzhTPeJLb7IoFzLSHc_O6DNlNar9y00S4xL1cNWyqV-D-7Dsm6j7v2bbkfZqAUbImTpPmFVzIHOcxW9Efy9L3fojEe7Meb8gGWON_H2tXpiTWIdhDzA49l4YL4aC59AVpSyeb2q_yoUiVek8ShIFAXoDaSG2CzD-185PtlL5-HUDMQtZU3KhUMsr3UnEcqjBh-1Z6_Wew_M_cZG8fqg-ITxF6PBBxIdELVctQuJTbEbjjuLsR02jFd8kdAl135gvvlMXrU09FCV35XH6H5xnx_7M-7mFRx8UVqUl91E8Mst3SUJ8z0To5pbG6wrd4eP_KpY-wLVkgmE52D2DsZJ7Ubgi0M9oXa-JvTzQxx35KWe80j9d3aG8z4fMXkemmASCM6UKcW0oS9N69mIgmhqSifeB7NZJ0aZLxuAqF7Y41I8RIQNmKgKnJq-1NCpvrqcUveqRoMEM6yyZMvFyxTHD3Q.m3u8</link>
+      <description></description>
+      <category></category>
+      <ls:live>true</ls:live>
+      <ls:content-type>ff</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+    </item>
+    <item>
       <title>Test mp4 redirect</title>
       <link>http://ps4-testing.s3-website-us-east-1.amazonaws.com/test_video.mp4</link>
       <description></description>
