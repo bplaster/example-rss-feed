@@ -17,6 +17,7 @@
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
+      <ls:skybox>https://informal.jpl.nasa.gov/museum/sites/default/files/ResourceLibrary/TRAPPIST-1d_02.21.17_3_unlabeled.png</ls:skybox>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
@@ -45,6 +46,7 @@
       <description></description>
       <category></category>
       <ls:feed>true</ls:feed>
+      <ls:skybox>https://informal.jpl.nasa.gov/museum/sites/default/files/ResourceLibrary/JPL-20180906-MSLf-0001-Curiosity%20Explores%20Vera%20Rubin%20Ridge%20360%208k_unlabeled.png</ls:skybox>
     </item>
     <item>
       <title>CNET</title>
