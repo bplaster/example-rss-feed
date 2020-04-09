@@ -9,6 +9,7 @@
       <title>Odes to Oats</title>
       <link>https://github.com/bplaster</link>
     </image>
+    <ls:assetbundle>https://github.com/bplaster/example-rss-feed/blob/master/club.unity3d</ls:assetbundle>
     <item>
       <title>TED Talks</title>
       <link>http://feeds.feedburner.com/TEDTalks_video</link>
