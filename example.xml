@@ -9,7 +9,7 @@
       <title>Odes to Oats</title>
       <link>https://github.com/bplaster</link>
     </image>
-    <ls:assetbundle>https://github.com/bplaster/example-rss-feed/blob/master/club.unity3d</ls:assetbundle>
+    <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/club.unity3d</ls:assetbundle>
     <item>
       <title>TED Talks</title>
       <link>http://feeds.feedburner.com/TEDTalks_video</link>
@@ -26,7 +26,7 @@
       <description></description>
       <category></category>
       <ls:feed>true</ls:feed>
-      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/blob/master/club.unity3d</ls:assetbundle>
+      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/club.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>Reuters US Politics</title>
