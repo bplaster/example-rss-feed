@@ -10,6 +10,15 @@
       <link>https://github.com/bplaster</link>
     </image>
     <item>
+      <title>Live Tests</title>
+      <link>https://ls-premium.s3.amazonaws.com/scratch/testLivestreams.xml</link>
+      <description>Live tests from Littlstar</description>
+      <ls:feed>true</ls:feed>
+      <ls:content-type>ff</ls:content-type>
+      <ls:content-layout>2d</ls:content-layout>
+      <ls:assetbundle>https://ls-prod-media.s3.amazonaws.com/bundles/psvr/clublittlstarconfig.unity3d</ls:assetbundle>
+    </item>
+    <item>
       <title>TED Talks</title>
       <link>http://feeds.feedburner.com/TEDTalks_video</link>
       <description>A list of TED Talks</description>
