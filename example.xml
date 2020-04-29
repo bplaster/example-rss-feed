@@ -26,7 +26,7 @@
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
-      <ls:assetbundle>https://ls-prod-media.s3.amazonaws.com/bundles/psvr/clublittlstarconfig.unity3d</ls:assetbundle>
+      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/clublittlstarconfig.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
@@ -34,7 +34,6 @@
       <description></description>
       <category></category>
       <ls:feed>true</ls:feed>
-      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/clublittlstarconfig.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>Reuters US Politics</title>
@@ -42,7 +41,6 @@
       <description></description>
       <category></category>
       <ls:feed>true</ls:feed>
-      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/lstheatre.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>NASA Vodcast</title>
