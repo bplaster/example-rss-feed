@@ -16,7 +16,7 @@
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
-      <ls:assetbundle>https://ls-prod-media.s3.amazonaws.com/bundles/psvr/littlstarcourtroomconfig.unity3d</ls:assetbundle>
+      <ls:assetbundle>https://ls-prod-media.s3.amazonaws.com/bundles/psvr/edc_config.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>TED Talks</title>
@@ -26,7 +26,7 @@
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
-      <ls:assetbundle>https://github.com/bplaster/example-rss-feed/raw/master/clublittlstarconfig.unity3d</ls:assetbundle>
+      <ls:assetbundle>https://ls-prod-media.s3.amazonaws.com/bundles/psvr/edc_config.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
