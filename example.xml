@@ -26,7 +26,7 @@
       <ls:feed>true</ls:feed>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
-      <ls:assetbundle>https://media.littlstar.com/bundles/psvr/digitalmirage.unity3d</ls:assetbundle>
+      <ls:assetbundle>https://media.littlstar.com/bundles/psvr/digitalmirage_config.unity3d</ls:assetbundle>
     </item>
     <item>
       <title>Reuters US Breaking News</title>
