@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:ls="https://www.littlstar.com">
+    <channel>
+        <title>Example Channel</title>
+        <link>https://littlstar.com/</link>
+        <description>Description of a channel</description>
+        <category>Examples</category>
+        <image>
+          <url>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/CHANNEL.jpg</url>
+          <title>Example Channel</title>
+          <link>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/CHANNEL.jpg</link>
+        </image>
+        <item>
+            <title>Example Series</title>
+            <link>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SERIES.xml</link>
+            <description>The description for an example series</description>
+            <ls:feed>true</ls:feed>
+            <ls:image>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SERIES.jpg</ls:image>
+        </item>
+    </channel>
+</rss>
