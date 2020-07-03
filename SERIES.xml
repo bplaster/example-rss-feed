@@ -11,7 +11,7 @@
         <item>
           <title>Season 1</title>
           <link>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SEASON.xml</link>
-          <ls:image>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SEASON.jpg</ls:image>
+          <ls:image>https://www.nasa.gov/images/content/175183main_twan_itunes_1400.jpg</ls:image>
           <ls:feed>true</ls:feed>
         </item>
     </channel>
