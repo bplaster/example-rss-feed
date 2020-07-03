@@ -1,0 +1,18 @@
+	<rss version="2.0" xmlns:ls="https://www.littlstar.com">
+    <channel>
+        <title>Example Series</title>
+        <link></link>
+        <description>The description for an example series</description>
+        <image>
+          <url>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SERIES.jpg</url>
+            <title>Example Series</title>
+            <link></link>
+          </image>
+        <item>
+          <title>Season 1</title>
+          <link>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SEASON.xml</link>
+          <ls:image>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/SEASON.jpg</ls:image>
+          <ls:feed>true</ls:feed>
+        </item>
+    </channel>
+</rss>
