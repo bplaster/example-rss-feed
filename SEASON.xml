@@ -8,9 +8,9 @@
     </image>
     <item>
       <title>E01: Episode Example 1</title>
-      <link>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/EPISODE.mp4</link>
+      <link>http://www.nasa.gov/sites/default/files/atoms/video/nhq_2020_0703_twn.mp4</link>
       <description>Example episode description 1</description>
-      <ls:image>https://raw.githubusercontent.com/bplaster/example-rss-feed/master/EPISODE.jpg</ls:image>
+      <ls:image>https://www.nasa.gov/sites/default/files/thumbnails/image/twan-logo.png</ls:image>
       <ls:content-type>ff</ls:content-type>
       <ls:content-layout>2d</ls:content-layout>
       <category>Comedy</category>
